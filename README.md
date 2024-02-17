@@ -1,2 +1,2 @@
 # second-class
-This is mt second-class
+This is my second-class
